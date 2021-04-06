@@ -24,3 +24,13 @@ Slack-clone is a social media application where users can create channels, and p
   
 - Post a message
   -Message is sent to the backend and then posted to all users
+  
+## Dependencies
+-HTML
+-CSS
+-javascript
+-react
+-redux
+-firebase
+
+## What the app looks like
