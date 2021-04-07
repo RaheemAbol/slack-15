@@ -33,4 +33,4 @@ Slack-clone is a social media application where users can create channels, and p
 -redux
 -firebase
 
-## What the app looks like
+
