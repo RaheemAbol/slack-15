@@ -1,6 +1,7 @@
 # slack-clone
 Slack-clone is a social media application where users can create channels, and post their thoughts on a certain subject.
 
+
 ## How to run the app
 1.Either fork or download the app and open the folder in the cli
 2.Install all dependencies using the `npm i` command
@@ -32,5 +33,10 @@ Slack-clone is a social media application where users can create channels, and p
 -react
 -redux
 -firebase
+
+# Check it out
+
+slack-clone-ra.web.app
+slack-clone-ra.firebaseapp.com
 
 
